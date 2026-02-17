@@ -1,26 +1,27 @@
-<h1 align="center">Hi there, I'm Sri Hari! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm90eWlncGRoMXZ1b3FweW03Z3F5eGZqY3F5eGZqY3F5eGZqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2rXQxY9KjFj2/giphy.gif" width="100%" />
+  
+  <h1>B Sri Hari</h1>
+  <h3>AI & Machine Learning Undergrad | Open Source Enthusiast</h3>
 
-<p align="center">
-  <b>🤖 AI & Machine Learning Undergrad | 🚀 Open Source Contributor</b>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+  <p>
+    <a href="https://linkedin.com/in/sri-hari-48321b297">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:YOUR-EMAIL@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
 ### 🧐 About Me
 
-- 🌸 **I build autonomous agents** and RAG pipelines that actually work.
-- 🔭 **Currently contributing to:** [INCF (KnowledgeSpace Agent)](https://github.com/INCF/knowledge-space-agent) for GSoC '26.
-- 📚 **Research Interest:** Hybrid Search (Vector + Keyword) & Agentic Workflows.
-- 👯 **Looking to collaborate on:** GenAI, LangGraph, and Open Source AI tools.
+- 🤖 **I build autonomous agents** and RAG pipelines.
+- 🔭 **Currently working on:** Advanced Agentic Workflows and System Design.
+- 📚 **Research Interest:** Hybrid Search (Vector + Keyword) & LLM Optimization.
+- 👯 **Looking to collaborate on:** GenAI tools, Backend Systems, and Open Source projects.
 
 ---
 
@@ -38,6 +39,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriharizz&show_icons=true&theme=radical" alt="Sri Hari's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriharizz&theme=radical" alt="Sri Hari's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sriharizz&show_icons=true&theme=radical&hide_border=true" alt="Sri Hari's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriharizz&theme=radical&hide_border=true" alt="Sri Hari's Streak" />
 </p>
