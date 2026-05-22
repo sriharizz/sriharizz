@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sri%20Hari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG%20Architectures&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f71,100:2d1b69&height=200&section=header&text=Sri%20Hari&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG%20Architectures&descAlignY=55&descSize=18&descColor=8b949e" width="100%"/>
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="240"/>
 
 ### 🧠 About Me
 
@@ -67,48 +67,13 @@ sri_hari = {
 ### 🚀 Featured Projects
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">GitNova 🌟</h3>
-<div align="center">
-<a href="https://github.com/sriharizz/gitnova">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sriharizz&repo=gitnova&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</a>
-<p><strong>Autonomous 6-stage AI pipeline</strong> — DeBERTa v3 + Llama 3 matches developers to open-source issues. <strong>Live & deployed.</strong></p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Unshell 🏆</h3>
-<div align="center">
-<a href="https://github.com/sriharizz/unshell">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sriharizz&repo=unshell&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</a>
-<p><strong>AML & KYB fraud detection graph</strong> — detects offshore shell patterns with LangGraph + RAG + mathematical risk scoring.</p>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">VibeLearn</h3>
-<div align="center">
-<a href="https://github.com/sriharizz/Vibe-learn">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sriharizz&repo=Vibe-learn&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</a>
-<p><strong>Adaptive learning platform</strong> — personalizes content & quiz difficulty based on real-time mood and energy state.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Customs Trade Agent</h3>
-<div align="center">
-<a href="https://github.com/sriharizz/customs-trade-classification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sriharizz&repo=customs-trade-classification&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</a>
-<p><strong>RL environment</strong> for autonomous customs compliance — Meta PyTorch OpenEnv Hackathon submission.</p>
-</div>
-</td>
-</tr>
-</table>
+
+[![GitNova](https://github-readme-stats.vercel.app/api/pin/?username=sriharizz&repo=gitnova&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF)](https://github.com/sriharizz/gitnova)
+[![Unshell](https://github-readme-stats.vercel.app/api/pin/?username=sriharizz&repo=unshell&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF)](https://github.com/sriharizz/unshell)
+
+[![VibeLearn](https://github-readme-stats.vercel.app/api/pin/?username=sriharizz&repo=Vibe-learn&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF)](https://github.com/sriharizz/Vibe-learn)
+[![Customs Trade Agent](https://github-readme-stats.vercel.app/api/pin/?username=sriharizz&repo=customs-trade-classification&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF)](https://github.com/sriharizz/customs-trade-classification)
+
 </div>
 
 ---
