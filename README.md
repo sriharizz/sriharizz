@@ -1,38 +1,44 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=120&section=header&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sri%20Hari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG%20Architectures&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sri+Hari;AI+Engineer+%7C+Agentic+Systems+Builder;LangGraph+%C2%B7+RAG+%C2%B7+FastAPI+%C2%B7+Multi-Agent+AI;I+don't+just+learn+AI+%E2%80%94+I+ship+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+agentic+AI+systems+that+actually+ship+%F0%9F%9A%80;LangGraph+%C2%B7+RAG+%C2%B7+FastAPI+%C2%B7+Multi-Agent+AI;%F0%9F%8F%86+Top+50+from+750%2B+teams+%E2%80%94+Hackfest+2026;Associate+Consultant+%40+Chiacon+Consulting" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sri-hari-48321b297)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sriharii-dev.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriharizbett@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sriharizz)
-
+  <a href="https://linkedin.com/in/sri-hari-48321b297">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://sriharii-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:sriharizbett@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sriharizz&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 </div>
+
+<br/>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240"/>
 
-### 🧠 &nbsp;About Me
+### 🧠 About Me
 
 ```python
 sri_hari = {
-    "role"      : "AI Engineer & Backend Builder",
-    "location"  : "Bengaluru, India 🇮🇳",
-    "education" : "B.E. AIML @ Sir MVIT (2027)",
-    "internship": "Associate Consultant @ Chiacon",
-    "focus"     : ["Agentic AI", "RAG", "LLM Orchestration"],
-    "stack"     : ["LangGraph", "FastAPI", "Azure OpenAI"],
-    "building"  : "production AI systems, not just demos",
-    "fun_fact"  : "won 2nd runner-up from 750+ teams 🏆"
+  "role"      : "AI Engineer & Builder",
+  "location"  : "Bengaluru, India 🇮🇳",
+  "education" : "B.E. AIML @ Sir MVIT (2027)",
+  "work"      : "Associate Consultant @ Chiacon",
+  "focus"     : ["Agentic AI", "RAG", "LLM Systems"],
+  "core_stack": ["LangGraph", "FastAPI", "Azure OpenAI"],
+  "philosophy": "I don't just learn AI — I ship it 🚀",
+  "achievement": "🏆 Top 50/750+ teams @ Hackfest 2026"
 }
 ```
 
@@ -40,101 +46,144 @@ sri_hari = {
 
 ---
 
-### 🏆 &nbsp;Hackfest 2026 @ NMAMIT — 2nd Runner-Up
+### 🏆 Hackfest 2026 @ NMAMIT — 2nd Runner-Up
 
 <div align="center">
 
-> 🥉 **Top 50 shortlisted from 750+ competing teams**
-> Built **[Unshell](https://github.com/sriharizz/unshell)** — Autonomous KYB Fraud Detection Graph — in **36 hours**
-> LangGraph · FAISS · RAG · React · FastAPI
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🥉  Top 50 shortlisted from 750+ competing teams           │
+│  ⚡  Built UNSHELL in 36 hours under pressure               │
+│  🔍  Autonomous KYB Fraud Detection using LangGraph + RAG   │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**[→ View Unshell on GitHub](https://github.com/sriharizz/unshell)**
 
 </div>
 
 ---
 
-### 🚀 &nbsp;Featured Projects
+### 🚀 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">GitNova 🌟</h3>
+<div align="center">
+<a href="https://github.com/sriharizz/gitnova">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sriharizz&repo=gitnova&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</a>
+<p><strong>Autonomous 6-stage AI pipeline</strong> — DeBERTa v3 + Llama 3 matches developers to open-source issues. <strong>Live & deployed.</strong></p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Unshell 🏆</h3>
+<div align="center">
+<a href="https://github.com/sriharizz/unshell">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sriharizz&repo=unshell&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</a>
+<p><strong>AML & KYB fraud detection graph</strong> — detects offshore shell patterns with LangGraph + RAG + mathematical risk scoring.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">VibeLearn</h3>
+<div align="center">
+<a href="https://github.com/sriharizz/Vibe-learn">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sriharizz&repo=Vibe-learn&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</a>
+<p><strong>Adaptive learning platform</strong> — personalizes content & quiz difficulty based on real-time mood and energy state.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Customs Trade Agent</h3>
+<div align="center">
+<a href="https://github.com/sriharizz/customs-trade-classification">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sriharizz&repo=customs-trade-classification&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</a>
+<p><strong>RL environment</strong> for autonomous customs compliance — Meta PyTorch OpenEnv Hackathon submission.</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
 
-| 🔥 Project | 💡 What it does | ⚙️ Stack |
-|:---|:---|:---|
-| [**GitNova**](https://github.com/sriharizz/gitnova) | Autonomous 6-stage AI pipeline — DeBERTa v3 + Llama 3 matches devs to open-source issues. **Live & deployed.** | LangChain · DeBERTa · Llama 3 · FastAPI · Supabase |
-| [**Unshell**](https://github.com/sriharizz/unshell) 🏆 | AML & KYB fraud detection graph — detects offshore shell patterns with RAG + mathematical risk scoring | LangGraph · FAISS · RAG · FastAPI · React |
-| [**VibeLearn**](https://github.com/sriharizz/Vibe-learn) | Adaptive learning platform — personalizes content & quiz difficulty using real-time mood + energy detection | Multi-agent RAG · FastAPI · Gemini · Supabase |
-| [**Customs Trade Agent**](https://github.com/sriharizz/customs-trade-classification) | RL environment for autonomous customs compliance — Meta PyTorch OpenEnv Hackathon submission | RL · Docker · FastAPI · Python |
+**AI / LLM Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1a1a2e?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-7B2FBE?style=for-the-badge)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+**Backend & Infra**
+
+<img src="https://skillicons.dev/icons?i=fastapi,docker,githubactions,react,typescript,tailwind&theme=dark"/>
+
+**Data & Vector**
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres&theme=dark"/>
+
+![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 </div>
 
 ---
 
-### 🛠️ &nbsp;Tech Stack
+### 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sriharizz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF&count_private=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=sriharizz&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharizz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=8"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriharizz&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&hide_border=true" width="95%"/>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sriharizz/sriharizz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+---
+
+### 📍 Currently
 
 <div align="center">
 
-**🤖 AI / LLM**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1C3C3C?style=flat-square&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
-![Llama3](https://img.shields.io/badge/Llama_3-FF6B35?style=flat-square&logoColor=white)
-![DeBERTa](https://img.shields.io/badge/DeBERTa_v3-764ABC?style=flat-square&logoColor=white)
-
-**⚙️ Backend & Infra**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-**🗄️ Data & Vector**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-blue?style=flat-square&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-**🎨 Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+| | |
+|:---|:---|
+| 🏢 **Work** | Associate Consultant Intern @ Chiacon Consulting |
+| 🎓 **Study** | B.E. AIML · Sir MVIT Bengaluru · 2027 |
+| ⚡ **Competing** | ET AI Hackathon · AI for Bharat · Meta PyTorch OpenEnv |
+| 🔭 **Building** | Production multi-agent systems & LLM eval pipelines |
 
 </div>
 
 ---
 
-### 📊 &nbsp;GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sriharizz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriharizz&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriharizz&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</div>
-
----
-
-### 🐍 &nbsp;Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sriharizz/sriharizz/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
-
----
-
-### 📍 &nbsp;Currently
-
-- 🏢 **Associate Consultant Intern** @ Chiacon Consulting — shipping enterprise AI tools
-- 🎓 **B.E. AIML** · Sir M. Visvesvaraya Institute of Technology · Bengaluru · 2027
-- ⚡ **Hackathon builder** — ET AI Hackathon · AI for Bharat · Meta PyTorch OpenEnv
-- 🔭 **Exploring** — Advanced multi-agent systems & production LLM eval pipelines
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
