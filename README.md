@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=I+don't+just+learn+AI+%E2%80%94+I+ship+it+%F0%9F%9A%80;LangGraph+%C2%B7+RAG+%C2%B7+FastAPI+%C2%B7+Multi-Agent+AI;%F0%9F%8F%86+2nd+Runner-Up+%7C+Hackfest+2026+%7C+750%2B+teams;Associate+Consultant+%40+Chiacon+Consulting" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=I+don%27t+just+learn+AI+%E2%80%94+I+ship+it+%F0%9F%9A%80;LangGraph+%C2%B7+RAG+%C2%B7+FastAPI+%C2%B7+Multi-Agent+AI;%F0%9F%8F%86+2nd+Runner-Up+%7C+Hackfest+2026+%7C+750%2B+teams;Associate+Consultant+%40+Chiacon+Consulting" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -25,49 +25,42 @@
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="220"/>
-
-### &nbsp; About Me
+### 🧠 About Me
 
 ```python
 class SriHari:
     role       = "AI Engineer & Backend Builder"
-    location   = "Bengaluru, India"
+    location   = "Bengaluru, India 🇮🇳"
     education  = "B.E. AIML @ Sir MVIT (2027)"
-    work       = "Associate Consultant @ Chiacon"
+    work       = "Associate Consultant @ Chiacon Consulting"
     focus      = ["Agentic AI", "RAG", "LLM Orchestration"]
     core_stack = ["LangGraph", "FastAPI", "Azure OpenAI"]
+    currently  = "Building production AI systems, not just demos"
 
     def philosophy(self):
-        return "I don't just learn AI — I ship it"
+        return "I don't just learn AI — I ship it 🚀"
 ```
-
-<br clear="right"/>
 
 ---
 
-<div align="center">
-
 ### 🏆 2nd Runner-Up — Hackfest 2026 @ NMAMIT
 
-<br/>
+<div align="center">
 
 <table>
-<tr>
-<td>🥉</td>
-<td><strong>2nd Runner-Up</strong> out of <strong>750+ competing teams</strong></td>
-</tr>
-<tr>
-<td>⚡</td>
-<td>Built <a href="https://github.com/sriharizz/unshell"><strong>Unshell</strong></a> — Autonomous KYB Fraud Detection — in <strong>36 hours</strong></td>
-</tr>
-<tr>
-<td>🔍</td>
-<td>LangGraph orchestration · FAISS vector search · RAG pipeline · React Flow graph UI</td>
-</tr>
+  <tr>
+    <td align="center">🥉</td>
+    <td><strong>2nd Runner-Up</strong> out of <strong>750+ competing teams</strong></td>
+  </tr>
+  <tr>
+    <td align="center">⚡</td>
+    <td>Built <a href="https://github.com/sriharizz/unshell"><strong>Unshell</strong></a> — Autonomous KYB Fraud Detection system — in <strong>36 hours</strong></td>
+  </tr>
+  <tr>
+    <td align="center">🔍</td>
+    <td>LangGraph orchestration · FAISS vector search · RAG pipeline · React Flow graph UI</td>
+  </tr>
 </table>
-
-<br/>
 
 </div>
 
@@ -94,28 +87,28 @@ class SriHari:
 
 **AI / LLM**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" alt="python pytorch"/>
-&nbsp;
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark"/>
+
 ![LangGraph](https://img.shields.io/badge/LangGraph-0d2137?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=for-the-badge)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Llama 3](https://img.shields.io/badge/Llama_3-FF6B35?style=for-the-badge)
-![DeBERTa v3](https://img.shields.io/badge/DeBERTa_v3-58A6FF?style=for-the-badge)
+![DeBERTa](https://img.shields.io/badge/DeBERTa_v3-58A6FF?style=for-the-badge)
 
 **Backend & Infra**
 
-<img src="https://skillicons.dev/icons?i=fastapi,docker,githubactions&theme=dark" alt="fastapi docker github-actions"/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,githubactions&theme=dark"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind&theme=dark" alt="react typescript tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind&theme=dark"/>
 
 **Data & Vector**
 
-<img src="https://skillicons.dev/icons?i=supabase,postgres&theme=dark" alt="supabase postgres"/>
-&nbsp;
+<img src="https://skillicons.dev/icons?i=supabase,postgres&theme=dark"/>
+
 ![FAISS](https://img.shields.io/badge/FAISS-0d2137?style=for-the-badge)
 ![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
@@ -123,17 +116,25 @@ class SriHari:
 
 ---
 
+### 🏅 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sriharizz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sriharizz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=6e7681&icon_color=58A6FF&count_private=true" alt="stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=sriharizz&hide_border=true&background=0d1117&stroke=0d2137&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=6e7681&dates=6e7681&currStreakNum=58A6FF&sideNums=58A6FF" alt="streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sriharizz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=6e7681&icon_color=58A6FF&count_private=true&rank_icon=github"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=sriharizz&hide_border=true&background=0d1117&stroke=0d2137&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=6e7681&dates=6e7681&currStreakNum=58A6FF&sideNums=6e7681"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriharizz&bg_color=0d1117&color=58A6FF&line=58A6FF&point=58A6FF&hide_border=true&area=true&area_color=0d2137" width="95%" alt="activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriharizz&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&area=true&area_color=0d2137" width="95%"/>
 </div>
 
 ---
@@ -141,9 +142,7 @@ class SriHari:
 ### 🎮 Contribution Graph
 
 <div align="center">
-  <a href="https://github.com/sriharizz">
-    <img src="https://raw.githubusercontent.com/sriharizz/sriharizz/output/space-shooter.svg" alt="space shooter contribution graph" width="100%"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/sriharizz/sriharizz/output/space-shooter.svg" alt="space shooter" width="100%"/>
 </div>
 
 ---
@@ -154,9 +153,9 @@ class SriHari:
 
 | | |
 |:---|:---|
-| 🏢 **Work** | Associate Consultant Intern @ **Chiacon Consulting** — shipping enterprise AI tools |
+| 🏢 **Work** | Associate Consultant Intern @ **Chiacon Consulting** |
 | 🎓 **Study** | B.E. AIML · **Sir MVIT Bengaluru** · 2027 |
-| 🏆 **Won** | **2nd Runner-Up** — Hackfest 2026 @ NMAMIT · 750+ teams |
+| 🏆 **Won** | **2nd Runner-Up** — Hackfest 2026 @ NMAMIT out of 750+ teams |
 | ⚡ **Competing** | ET AI Hackathon · AI for Bharat · Meta PyTorch OpenEnv |
 | 🔭 **Building** | Production multi-agent systems & LLM eval pipelines |
 
