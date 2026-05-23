@@ -79,14 +79,6 @@ AI Engineer based in Bengaluru, India. I build agentic AI systems, RAG pipelines
 
 ---
 
-### 🎮 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sriharizz/sriharizz/output/space-shooter.svg" alt="space shooter" width="100%"/>
-</div>
-
----
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
 </div>
