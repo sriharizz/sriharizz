@@ -22,11 +22,11 @@
 
 ### 👨‍💻 About Me
 
-AI Engineer based in Bengaluru, India. I build agentic AI systems, RAG pipelines, and production LLM backends that actually work at scale. Currently pursuing B.E. AIML at Sir MVIT (2027) while working as Associate Consultant Intern at **Chiacon Consulting**.
+AI Engineer based in Bengaluru, India. I build agentic AI systems, RAG pipelines, and production LLM backends that actually work at scale. Currently pursuing B.E. AIML at Sir MVIT (2027) wprked as Associate Consultant Intern at **Chiacon Consulting**.
 
 - 🏆 **2nd Runner-Up** — Hackfest 2026 @ NMAMIT · Top 50 from 750+ teams
 - 🔭 Building **multi-agent pipelines** with LangGraph, LangChain & Azure OpenAI
-- 💼 Interning at **Chiacon Consulting** — shipping enterprise AI tools
+- 💼 interned at **Chiacon Consulting** — shipped enterprise AI tools
 - 🚀 *I don't just learn AI — I ship it*
 
 ---
